@@ -31,7 +31,6 @@ This project focuses on analyzing the Titanic dataset from Kaggle to explore the
 ### 6. Survival by Parents/Children  
 ### 7. Fare Distribution  
 ### 8. Correlation Heatmap  
-### 9. Survival by Family Size  
 
 ---
 
